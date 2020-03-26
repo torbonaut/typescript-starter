@@ -7,6 +7,8 @@
 ## how to use
 git clone the repo and do `npm install` > you are ready to go coding within the src directory.
 
+you probably want to edit name/description/author/... in the package.json file.
+
 - create dev build
 
         npm run build:dev
